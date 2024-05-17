@@ -4,8 +4,8 @@
 <img align="left">
 <img src="images/favicon.ico" alt="Logo" width="80" height="80">
 
-- [![art](images/logo.png)]
-{♥️}
+![art](images/logo.png)
+- {♥️}
 
 
 <!--
