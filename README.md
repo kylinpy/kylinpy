@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<!-- avatar: /images/favicon.ico -->
+<img align="left">
+<img src="images/favicon.ico" alt="Logo" width="80" height="80">
+
+- Name: kylin 
+- mail: kylinchpy@gmail.com
+- [![art](images/logo.png)]
+{♥️}
+
+
 <!--
 **kylinpy/kylinpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
