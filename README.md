@@ -4,7 +4,7 @@
 >>> Compartir es alegría
 ♥️
 <img align="center">
-<img src="images/Firefly.jpg" alt="Logo" width="1152" height="896">
+<img src="images/Firefly.jpg" alt="Logo" width="1152" height="696">
 
 
 <!--
