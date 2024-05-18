@@ -4,10 +4,8 @@
 <img align="left">
 <img src="images/FIG01.jpg" alt="Logo" width="854" height="285">
 
-- Name: kylin 
-- mail: kylinchpy@gmail.com
-- [![art](images/logo.png)]
-{♥️}
+![art](images/logo.png)
+- {♥️}
 
 
 <!--
