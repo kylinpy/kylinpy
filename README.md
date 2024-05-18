@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi 👋
+> La exploración es emocionante
+>> aprender es divertid
+>>> Compartir es alegría
+♥️
+<img align="center">
+<img src="images/Firefly.jpg" alt="Logo" width="1152" height="896">
 
-<!-- avatar: /images/favicon.ico -->
-<img align="left">
-<img src="images/FIG01.jpg" alt="Logo" width="854" height="285">
-
-![art](images/logo.png)
-- {♥️}
 
 
 <!--
